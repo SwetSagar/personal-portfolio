@@ -2,6 +2,9 @@
 
 3rd project from roadmap.sh https://roadmap.sh/projects/portfolio-website
 
+<img width="1044" height="1058" alt="image" src="https://github.com/user-attachments/assets/0cb0513c-e7ad-4b35-996b-9c533a3a2ba7" />
+
+
 ## Contains a website with the following features :
 
 ### Submission Requirements
